@@ -1,0 +1,22 @@
+{
+  "name": "Al Onood Group",
+  "short_name": "Al Onood",
+  "description": "Al Onood Heavy & Light Trucks Transport LLC — UAE's trusted provider of water tankers, heavy machinery rental, and transport services since 2008.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/assets/alonood-favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/alonood-favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
